@@ -1,0 +1,18 @@
+Acrobatics      - Can play out an aerobatic stunt, maintain balance while strolling on thin or flimsy surfaces, slip free of limitations, or take less harm when fall.
+Arcana          - It can be used to assemble information on mysterious related themes.
+Athletics       - An Athletics attempt to physical activities that is based on muscular strength.
+Bluff           - It check to fast-talk a security, con a merchant, gamble, pass off a disguise or lie documents, and generally tells lies.
+Diplomacy       - It is used to switch opinions, to stimulate good will,or to bargain a deal in good faith and etc..
+Dungeoneering   - Used to gather knowledge about an underground territory or to identify an underground threat or idea.
+Endurance       -  Checks to splinter off ill effects and to impel our-self beyond ordinary physical boundaries.
+Heal            - Assists how to help someone improve from bruise or bad conditions, including disease.
+History         - Includes the chronological record of important events and an explanation of those causes.
+Insight         - Inspects to understand the purpose, to find some hidden meaning, to get a feeling of moods and to decide how honest somebody is being.
+Intimidate      - Makes an Intimidate survey to influence others through hostile actions, over threats, and deadly temptation.
+Nature          - Finding the way through the wild, identifying natural dangers, managing and recognizing regular animals, and living out of the land.
+Perception      - Checks to notice ideas, detect hidden path ways, spot near dangers, find traps, follow tracks, listen for sounds behind a closed door, or find secret objects.
+Religion        - Used to gather inforamation about religion or to recognize a religion-related ideas.
+Stealth         - Investigates to conceal from enemies, slip past guards, and move away without being noticed.
+Streetwise      - Examines to find out what’s happening, who the movers and shakers are, where to get what you need,  and where access is not granted.
+Thievery        - Can perform activities that needs nerves of steel and a steady hand.
+Animal Handling - Checks to control the scale when a riskfull exercises are done.
